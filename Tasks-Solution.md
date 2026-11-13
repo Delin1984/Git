@@ -54,6 +54,8 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ---
+Решение 2 [github.com/Delin1984/Git13.11/commit/40024230f8e49873c90c58b7bb740d60048417d9](https://github.com/Delin1984/Git13.11/commit/40024230f8e49873c90c58b7bb740d60048417d9)
+---
 
 ### Задание 3
 
@@ -74,6 +76,11 @@
 
 ![скрин для Git](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
 
+---
+Решение 3 [https://github.com/Delin1984/Git13.11/network](https://github.com/Delin1984/Git13.11/network)
+на момент заполнения домашнего задания информация еще обновилась и разные ветки в git и их сляния еще не было видно.
+Поэтому прикладываю фото вывода команды: git log --oneline --graph --all 
+<img width="831" height="465" alt="image" src="https://github.com/user-attachments/assets/fa47c056-302e-4ae7-b329-256a0ff1d641" />
 ---
 ## Дополнительные задания* (со звёздочкой)
 

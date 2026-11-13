@@ -79,7 +79,8 @@
 ---
 Решение 3 [https://github.com/Delin1984/Git13.11/network](https://github.com/Delin1984/Git13.11/network)
 на момент заполнения домашнего задания информация еще обновилась и разные ветки в git и их сляния еще не было видно.
-Поэтому прикладываю фото вывода команды: git log --oneline --graph --all 
+Поэтому прикладываю фото вывода команды: git log --oneline --graph --all
+
 <img width="831" height="465" alt="image" src="https://github.com/user-attachments/assets/fa47c056-302e-4ae7-b329-256a0ff1d641" />
 ---
 ## Дополнительные задания* (со звёздочкой)

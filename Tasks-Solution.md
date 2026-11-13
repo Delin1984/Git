@@ -39,7 +39,7 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 ---
-[Решение 1](https://github.com/Delin1984/Git13.11/commit/9b9fa3838046fb387a309599bce014aaeb8e913b)
+Решение 1 [github.com/Delin1984/Git13.11/commit/9b9fa3838046fb387a309599bce014aaeb8e913b](https://github.com/Delin1984/Git13.11/commit/9b9fa3838046fb387a309599bce014aaeb8e913b)
 ---
 
 ### Задание 2
